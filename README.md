@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <img src="https://i.pinimg.com/736x/c8/14/7e/c8147e4273c0e4d78168962504e1d4c7.jpg" />
+    <img alt= pipik src="https://i.pinimg.com/736x/c8/14/7e/c8147e4273c0e4d78168962504e1d4c7.jpg" />
   </picture>
 </p>
 <p>
