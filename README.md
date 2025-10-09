@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Docker-container-2496ED" />
   <img src="https://img.shields.io/badge/ELK-logging-FF7A00" />
 </p>
-student. systems. security. homelab.
+student. systems. cyber security. homelab.
 
 ---
 
