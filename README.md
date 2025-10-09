@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2Fc8%2F14%2F7e%2Fc8147e4273c0e4d78168962504e1d4c7.jpg&f=1&nofb=1&ipt=4052126d53888a4c5dadb82bee3ea17fa6c7886e0a860070290df77499bcec4d" />
+    <img src="https://i.pinimg.com/736x/c8/14/7e/c8147e4273c0e4d78168962504e1d4c7.jpg" />
   </picture>
 </p>
 <p>
