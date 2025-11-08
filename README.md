@@ -20,21 +20,20 @@ student. systems. cyber security. homelab.
 ---
 
 ## setup
-- arch + win 22h2 (zen kernel)  
+- arch + win 23h2 (zen kernel)  
 - pixel 9 pro · grapheneos  
-- zsh · vscode · screen  
+- zsh · vscode
 - proxmox cluster · docker · elk  
 - vaultwarden self-hosted · mullvad  
 
 ---
 
 ## skills
-- c / c++ / rust  
-- cmake · strace · x64dbg  
+- c / c++ / rust / html / js / python 
+- cmake · strace
 - tcpdump · nmap · scapy  
-- burp · ida 9  
 - veracrypt aes-256  
-- kernel + netsec focus  
+- netsec focus  
 
 ---
 
