@@ -1,7 +1,6 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <img alt= pipik src="https://i.pinimg.com/736x/c8/14/7e/c8147e4273c0e4d78168962504e1d4c7.jpg" />
   </picture>
 </p>
 <p>
@@ -20,7 +19,7 @@ student. systems. cyber security. homelab.
 ---
 
 ## setup
-- arch + win 23h2 (zen kernel)  
+- arch (zen kernel)  
 - pixel 9 pro · grapheneos  
 - zsh · vscode
 - proxmox cluster · docker · elk  
