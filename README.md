@@ -28,10 +28,9 @@ student. systems. cyber security. homelab.
 ---
 
 ## skills
-- c / c++ / rust / html / js / python 
+- c / c++ / rust / html / js / python / go / c#
 - cmake · strace
-- tcpdump · nmap · scapy  
-- veracrypt aes-256  
+- tcpdump · nmap · scapy   
 - netsec focus  
 
 ---
