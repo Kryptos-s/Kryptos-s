@@ -7,7 +7,7 @@
 student. systems. cyber security. homelab.
 
 ---
- c / c++ / rust / go / c#
+- c / c++ / rust / go / c#
 ---
 
 ## contact
